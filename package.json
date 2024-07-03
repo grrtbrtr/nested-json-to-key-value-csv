@@ -1,0 +1,6 @@
+{
+  "name": "nested-json-to-key-value-csv",
+  "packageManager": "yarn@4.3.1",
+  "type": "module",
+  "private": true
+}
